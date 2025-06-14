@@ -1,3 +1,5 @@
+<img src="./icon.png" alt="icon" width="200">
+
 ## teriyaki-monitor（照り焼きモニター）
 ttyUSBやttyACMのデータを文字列と生データの両方を表示するツールです。　照り焼きが焦げないように観察するようなツールです。
 
